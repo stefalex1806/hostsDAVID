@@ -7,3 +7,4 @@ cat /etc/hosts | while read ip name rest; do
         fi
     fi
 done
+echo "ALEX"
